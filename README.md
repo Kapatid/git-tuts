@@ -1,4 +1,4 @@
 Member List 
-Nadji
-Jeremy
-Vince
+Nadji Tan
+Jeremy Habal
+Vince Dajay
